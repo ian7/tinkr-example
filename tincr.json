@@ -1,0 +1,14 @@
+{
+    "toFile" : [
+        {"from": "http://localhost:4444/(.+\\.html)",
+            "to": "/$1"},
+        {"from": "http://localhost:4444/(.+\\.js)",
+            "to": "/$1"},
+        {"from": "http://localhost:4444/(.+\\.css)",
+            "to": "/$1"}
+    ],
+    "fromFile" :[
+        {"from" : "http://localhost:4444//(.+\\.js)",
+            "to": "/$1"}
+    ]
+}

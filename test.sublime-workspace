@@ -1,0 +1,1655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cap",
+				"capitalizeWords"
+			],
+			[
+				"proje",
+				"projectComparator"
+			],
+			[
+				"update",
+				"updateDecisionCount"
+			],
+			[
+				"solved",
+				"onSolvedByRelationsReady"
+			],
+			[
+				"relat",
+				"relation_name"
+			],
+			[
+				"speedButt",
+				"speedButtons"
+			],
+			[
+				"speedBu",
+				"speedButtonsView"
+			],
+			[
+				"spee",
+				"SpeedButtons"
+			],
+			[
+				"view",
+				"view:closed"
+			],
+			[
+				"project",
+				"projectCapture"
+			],
+			[
+				"onClick",
+				"onClickedEvent"
+			],
+			[
+				"Backbon",
+				"Backbone.Marionette"
+			],
+			[
+				"composite",
+				"CompositeView"
+			],
+			[
+				"initial",
+				"initialize"
+			],
+			[
+				"start",
+				"startHistory"
+			],
+			[
+				"add",
+				"addInitializer"
+			],
+			[
+				"navi",
+				"navigateIssue"
+			],
+			[
+				"naviga",
+				"navigateProject"
+			],
+			[
+				"decision",
+				"decisionType"
+			],
+			[
+				"alternat",
+				"alternativeDetails"
+			],
+			[
+				"alternative",
+				"alternativeId"
+			],
+			[
+				"projec",
+				"projectChanged"
+			],
+			[
+				"refre",
+				"refreshProjects"
+			],
+			[
+				"main",
+				"mainView"
+			],
+			[
+				"create",
+				"createProject"
+			],
+			[
+				"New",
+				"NewProjectWidget"
+			],
+			[
+				"Proje",
+				"ProjectSpeedButtons"
+			],
+			[
+				"newT",
+				"newTaggingButton"
+			],
+			[
+				"render",
+				"renderTagList"
+			],
+			[
+				"matched",
+				"matchedIssues"
+			],
+			[
+				"mat",
+				"matchedIssues"
+			],
+			[
+				"decis",
+				"decision_id"
+			],
+			[
+				"Decisi",
+				"DecisionListWidget"
+			],
+			[
+				"appe",
+				"appendHtml"
+			],
+			[
+				"existing",
+				"existingTagsChanged"
+			],
+			[
+				"ex",
+				"existingTags"
+			],
+			[
+				"fix",
+				"fixDecisionColorBackground"
+			],
+			[
+				"attribute",
+				"attributeId"
+			],
+			[
+				"Event",
+				"EventNotification"
+			],
+			[
+				"template",
+				"templateHelpers"
+			],
+			[
+				"Taggin",
+				"TaggingWidget"
+			],
+			[
+				"issue",
+				"issueId"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"right",
+				"rightSidebar"
+			],
+			[
+				"event",
+				"eventsNotifier"
+			],
+			[
+				"bind",
+				"bindRenderChange"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"re",
+				"reset"
+			],
+			[
+				"alter",
+				"alternativeList"
+			],
+			[
+				"Alternative",
+				"AlternativeDetailsView"
+			],
+			[
+				"alternati",
+				"alternativeCompactListTemplate"
+			],
+			[
+				"Alternat",
+				"AlternativeCompactView"
+			],
+			[
+				"altern",
+				"alternativesCollection"
+			],
+			[
+				"Issue",
+				"IssueCompactView"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"non",
+				"nonAttributes"
+			],
+			[
+				"itemAtt",
+				"itemAttributesWidget"
+			],
+			[
+				"user",
+				"user_agent"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"focuse",
+				"focusedAttributeName"
+			],
+			[
+				"focused",
+				"focusedAttribute"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"alten",
+				"alternative_count"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"src",
+				"srcElement"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"trans",
+				"translateAction"
+			],
+			[
+				"transL",
+				"translateUser"
+			],
+			[
+				"tran",
+				"translateAction"
+			],
+			[
+				"distan",
+				"distanceBias"
+			],
+			[
+				"rende",
+				"renderAttr"
+			],
+			[
+				"relation",
+				"relation_instance"
+			],
+			[
+				"side",
+				"sidebarEl"
+			],
+			[
+				"innerT",
+				"innerText"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"notifyE",
+				"notifyEvent"
+			],
+			[
+				"mouse",
+				"mouseout"
+			],
+			[
+				"mous",
+				"mouseout"
+			],
+			[
+				"mos",
+				"mouseover"
+			],
+			[
+				"rel",
+				"relation_instance"
+			],
+			[
+				"skip",
+				"skip_empty"
+			],
+			[
+				"val",
+				"values_hash"
+			],
+			[
+				"PS",
+				"PS_DECISION"
+			],
+			[
+				"clean",
+				"cleanUp"
+			],
+			[
+				"show",
+				"showEl"
+			],
+			[
+				"click",
+				"clickFilter"
+			],
+			[
+				"all",
+				"all_collection"
+			],
+			[
+				"att",
+				"attributeName"
+			],
+			[
+				"tagNa",
+				"tagNameSelected"
+			],
+			[
+				"tagTy",
+				"tagTypeSelected"
+			],
+			[
+				"tags",
+				"tagListEl"
+			],
+			[
+				"sle",
+				"selectAll"
+			],
+			[
+				"decisions",
+				"decisionsDetailsEl"
+			],
+			[
+				"dyna",
+				"dynamic_type_attributes"
+			],
+			[
+				"scroll",
+				"scroll"
+			],
+			[
+				"check",
+				"checkNewItem"
+			],
+			[
+				"recentlyN",
+				"recentlyNotified"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"subView",
+				"subViewEl"
+			],
+			[
+				"Rotin",
+				"RoutingElement"
+			],
+			[
+				"items_",
+				"items_collection"
+			],
+			[
+				"metrics",
+				"metrics"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"Hofm",
+				"Hofmeister2007"
+			],
+			[
+				"Tay",
+				"Taylor2009"
+			],
+			[
+				"Zimmer",
+				"Zimmermann"
+			],
+			[
+				"meta",
+				"meta"
+			],
+			[
+				"fig",
+				"figure"
+			],
+			[
+				"Nowak",
+				"Nowak2011saturn"
+			],
+			[
+				"R",
+				"R fig:design-analysis"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"sr",
+				"strategy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.css",
+			"settings":
+			{
+				"buffer_size": 63,
+				"line_ending": "Unix",
+				"name": "body{"
+			}
+		},
+		{
+			"file": "tincr.json",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix",
+				"name": "m : function( a ){"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"Package Control: insall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Javascript",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 497.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marcin/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/test.html",
+		"/Users/marcinnowak/Desktop/pi.sublime-project",
+		"/Users/marcinnowak/pi/wiringPi/examples/test2.c",
+		"/Users/marcinnowak/pi/wiringPi/examples/test1.c",
+		"/Users/marcinnowak/pi/wiringPi/examples/mn1.cpp",
+		"/Users/marcinnowak/pi/wiringPi/examples/mn2.cpp",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/stylesheets/saw.css",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainRibbon.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainRibbon.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/application_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/Gemfile",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/views/welcome/index.html.erb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/views/welcome/logged_in.html.erb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/welcome_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/views/layouts/application.html.erb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/config/application.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/projects_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/jquery/jquery-1.8.0.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/application.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/config/initializers/devise.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/items_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueDetails.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureItemAttributes.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone/backbone.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureAlternativeDetails.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureRichEdit.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/deploy",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.marionette/lib/backbone.marionette.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainContext.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/dataCollection.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/scope_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/t_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.marionette/src/backbone.marionette.collectionview.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueListItem.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueList.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/dataModel.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/modelIssue.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureContext.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.gepetto/backbone.geppetto.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/config/routes.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/models/relation.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/dataRelation.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/modelDecision.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/modelAlternative.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/models/taggable.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/r_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureDecisionDetails.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureDecisionDetails.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureAlternativeCompact.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/logged_in.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/config/assets.yml",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueDetails.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureAlternativeDetails.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.marionette/src/backbone.marionette.compositeview.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesTypeList.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesLayout.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesRouter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureRouter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/dataType.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resources.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesItem.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesItemList.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsListItem.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsNew.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/relations_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/relation_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/tag_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueListItem.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/underscore/underscore.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.shortcuts/backbone.shortcuts.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projects.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainSpeedButtons.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesEvents.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesEvents.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesEventsItem.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesEventsItem.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainLayout.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/capture.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainLayout.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone.old/controllers/projects.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainRegionCentral.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureAlternativeCompact.jst",
+		"/Users/marcinnowak/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/marcinnowak/Library/Application Support/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureIssueList.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/bootstrap/js/bootstrap-affix.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/bootstrap/js/bootstrap-modal.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/ext/examples/window/layout.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/.gitmodules",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/tags_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/app/controllers/taggables_controller.rb",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/modelProject.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/stylesheets/buttons.css",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/main.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/capture/captureLayout.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.marionette/src/backbone.marionette.module.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/dataItem.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/main.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsRouter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsList.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.subroute/backbone.subroute.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/main/mainRouter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/lib/backbone.marionette/src/backbone.marionette.approuter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/run_init.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainContext.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/main.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainLayout.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainRibbon.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainModalRegion.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainLayout.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesType.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesTypeList.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesItemList.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsListItem.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/projects/projectsList.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/mainRouter.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone.old/views/ts/routingList.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/modelItem.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/modelType.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/resources/resourcesLayout.jst",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone.old/controllers/rs.js",
+		"/Users/marcinnowak/walki/webcam/s",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/core/types.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone.old/app.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/assets/projects.js",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/ext/examples/window/layout.html",
+		"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/app.js"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"\"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/*\"",
+			"\"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/\"*",
+			"/Users/marcinnowak/Documents/Aptana Studio 3 Workspace/v/d2/workspace/devel/public/javascripts/backbone/*",
+			"*",
+			"*.css",
+			"*",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table.decisionListWidget",
+			"current_user",
+			"crossDomain",
+			"before_filter",
+			"if nothing was replaced",
+			"If-Modified-Since",
+			"application/json",
+			"q=0.01",
+			"allTypes",
+			"X-",
+			"ajaxSetup",
+			"json :",
+			"json",
+			"sync",
+			"allTypes",
+			"navigational_formats",
+			"poland",
+			"jQuery",
+			"CompositeView",
+			"reset",
+			"trigger",
+			"routes",
+			"findDecision",
+			"SuperCollection",
+			"superColl",
+			"relations",
+			":t",
+			"name",
+			"this.collection",
+			"related_",
+			"to_json",
+			"related_to",
+			"img",
+			"tr.focused",
+			"save",
+			"save(",
+			"fetch()",
+			"fetch",
+			"items_collection",
+			"fetch()",
+			"Alternative",
+			"trigger",
+			"trigger('remo",
+			"trigger('add",
+			"do_relate",
+			"relate",
+			"alternativeList",
+			"focused",
+			"reset :",
+			"where",
+			"'sync'",
+			"#central",
+			"#center",
+			"layout.content",
+			"'add'",
+			"\"add\"",
+			"spinner",
+			"fastconfirm",
+			"deleteItem",
+			"r",
+			"refresh",
+			"tas",
+			"App.Models.Projects",
+			"addInitializer",
+			"Backbone",
+			"marionette",
+			"initializerCallbacks",
+			"_initializerCallbacks",
+			"module(",
+			"ParentModule",
+			"_initializerCallbacks",
+			"addInitializer",
+			"initCallbacks",
+			"parentContext",
+			"Marionette.Module",
+			"module(",
+			"module",
+			"navigateP",
+			"projects",
+			"ProjecDetailsWidget",
+			"compositeView",
+			"emptyView",
+			"JST.",
+			"JST,\\",
+			"serializeData",
+			"initialize",
+			"View",
+			"types:fetch",
+			"itemViewOptions",
+			"CompositeView",
+			"marionette",
+			"prototype",
+			"parentContext",
+			"App.Views.Ts.RoutingList",
+			"App.Views.Rs.List",
+			"JST",
+			"button",
+			"decisionType",
+			"tr.focused",
+			"alternativeDetailsViewTemplate",
+			"#alternativeDetailsViewTemplate",
+			"tab",
+			" != ",
+			" == ",
+			"	",
+			"\\t",
+			"issueCompactViewTemplate",
+			"issueCompactView",
+			"17px",
+			"checkNewItem",
+			"oneTime",
+			"your_decision",
+			"events",
+			"projectDetails",
+			"comparator",
+			"model.get('name')",
+			".get('name')",
+			"comparator",
+			"LiveProjectReport",
+			"sign-in-up",
+			"selectAll",
+			"e6",
+			"Live summary",
+			"editRationale",
+			"your_decision",
+			"AltenrativeListSpeedButtons",
+			"table {",
+			"AlternativeDetailsWidget"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"table.decisionDetails",
+			"relations_",
+			" !== ",
+			" === ",
+			"    ",
+			"decisionListWidget",
+			"Issue",
+			"App.Views.AltenrativeListSpeedButtons = Backbone.Marionette.View.extend({\n	events : {\n		'click div#newAlternative' : 'newAlternative',\n		'click div#reuseAlternative' : 'reuseAlternative',\n	},\n	initialize : function(){\n		_(this).bindAll();\n	},\n	render : function(){\n		h=\"\";\n		h+=\"<div class='button green' id='newAlternative'>New Alternative</div>\";\n		h+=\"<div class='button green' id='reuseAlternative'>Reuse Alternative</div>\";\n		this.$el.html(h);\n		//this.delegateEvents();\n	},\n	newAlternative : function(){\n		this.collection.create(null,{wait: true});\n	},\n	reuseAlternative: function(){\n		alert('to be implemented');\n	}\n})\n\n",
+			"notify(",
+			"",
+			"toElement",
+			"\\n",
+			"#sign-in-up .ui-tabs ",
+			"#sign-in-up .ui-tabs",
+			"#sign-in-up"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.html",
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.css",
+					"settings":
+					{
+						"buffer_size": 63,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body{",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tincr.json",
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.js",
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "m : function( a ){",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 269.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"juggernaut",
+				"public/javascripts/juggernaut.js"
+			],
+			[
+				"main.js",
+				"public/javascripts/main.js"
+			],
+			[
+				"capture.js",
+				"public/javascripts/backbone/capture/capture.js"
+			],
+			[
+				"captu",
+				"public/javascripts/backbone/capture/capture.js"
+			],
+			[
+				"saw.css",
+				"public/stylesheets/saw.css"
+			],
+			[
+				"maincontext",
+				"public/javascripts/backbone/main/mainContext.js"
+			],
+			[
+				"application.js",
+				"public/javascripts/application.js"
+			],
+			[
+				"context",
+				"public/javascripts/backbone/main/mainContext.js"
+			],
+			[
+				"dynamic_type",
+				"app/models/dynamic_type.rb"
+			],
+			[
+				"t_controller",
+				"app/controllers/t_controller.rb"
+			],
+			[
+				"r_contro",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"relation_contro",
+				"app/controllers/relation_controller.rb"
+			],
+			[
+				"r_cont",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"t_contro",
+				"app/controllers/t_controller.rb"
+			],
+			[
+				"application.rb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"mainribbon",
+				"public/javascripts/backbone/main/mainRibbon.js"
+			],
+			[
+				"ribbon.js",
+				"public/javascripts/backbone/main/mainRibbon.js"
+			],
+			[
+				"applicatio",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"backbone.js",
+				"public/javascripts/lib/backbone/backbone.js"
+			],
+			[
+				"logg",
+				"app/views/welcome/logged_in.html.erb"
+			],
+			[
+				"application_contro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"assets",
+				"config/assets.yml"
+			],
+			[
+				"welcome",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"application_control",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"application",
+				"public/javascripts/application.js"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"jquery-1",
+				"public/javascripts/lib/jquery/jquery-1.8.0.js"
+			],
+			[
+				"applicati",
+				"public/javascripts/application.js"
+			],
+			[
+				"applicaion",
+				"config/application.rb"
+			],
+			[
+				"jquery",
+				"public/javascripts/lib/jquery/jquery-1.8.0.js"
+			],
+			[
+				"projects_contr",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"jquery-1.8",
+				"public/javascripts/lib/jquery/jquery-1.8.0.js"
+			],
+			[
+				"item_contro",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"marionette",
+				"public/javascripts/lib/backbone.marionette/lib/backbone.marionette.js"
+			],
+			[
+				"marionette.js",
+				"public/javascripts/lib/backbone.marionette/lib/backbone.marionette.js"
+			],
+			[
+				"compositeview",
+				"public/javascripts/lib/backbone.marionette/src/backbone.marionette.compositeview.js"
+			],
+			[
+				"richedit",
+				"public/javascripts/backbone/capture/captureRichEdit.js"
+			],
+			[
+				"taggable.rb",
+				"app/models/taggable.rb"
+			],
+			[
+				"re",
+				"app/models/relation.rb"
+			],
+			[
+				"relation.rb",
+				"app/models/relation.rb"
+			],
+			[
+				"deplo",
+				"deploy"
+			],
+			[
+				"scope",
+				"app/controllers/scope_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"marionette.collection",
+				"public/javascripts/lib/backbone.marionette/src/backbone.marionette.collectionview.js"
+			],
+			[
+				"",
+				"public/javascripts/backbone/main/modelAlternative.js"
+			],
+			[
+				"geppetto",
+				"public/javascripts/lib/backbone.gepetto/backbone.geppetto.js"
+			],
+			[
+				"r_conto",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"relation",
+				"app/models/relation.rb"
+			],
+			[
+				"routes.rb",
+				"config/routes.rb"
+			],
+			[
+				"r_controller",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"taggable",
+				"app/models/taggable.rb"
+			],
+			[
+				"bootstrap-",
+				"public/javascripts/lib/bootstrap/js/bootstrap-modal.js"
+			],
+			[
+				"modelissue",
+				"public/javascripts/backbone/main/modelIssue.js"
+			],
+			[
+				"resourceevents",
+				"public/javascripts/backbone/resources/resourcesEvents.js"
+			],
+			[
+				"project_rb",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"backbone.",
+				"public/javascripts/lib/backbone/backbone.js"
+			],
+			[
+				"resoruces.js",
+				"public/javascripts/backbone/resources/resources.js"
+			],
+			[
+				"resourceitem",
+				"public/javascripts/backbone/resources/resourcesItem.jst"
+			],
+			[
+				"projects.js",
+				"public/javascripts/backbone/projects/projects.js"
+			],
+			[
+				"resourcesitemlist",
+				"public/javascripts/backbone/resources/resourcesItemList.js"
+			],
+			[
+				"projectsnew",
+				"public/javascripts/backbone/projects/projectsNew.js"
+			],
+			[
+				"project.js",
+				"public/javascripts/backbone/projects/projects.js"
+			],
+			[
+				"relations_contr",
+				"app/controllers/relations_controller.rb"
+			],
+			[
+				"relation_controller",
+				"app/controllers/relation_controller.rb"
+			],
+			[
+				"r_control",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"tag_cont",
+				"app/controllers/tag_controller.rb"
+			],
+			[
+				"r_contr",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"underscore.js",
+				"public/javascripts/lib/underscore/underscore.js"
+			],
+			[
+				"backbone.short",
+				"public/javascripts/lib/backbone.shortcuts/backbone.shortcuts.js"
+			],
+			[
+				"mainlayout",
+				"public/javascripts/backbone/main/mainLayout.js"
+			],
+			[
+				"layout",
+				"public/ext/examples/window/layout.js"
+			],
+			[
+				"applcation.html.erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"gitmodule",
+				".gitmodules"
+			],
+			[
+				"buttons.css",
+				"public/stylesheets/buttons.css"
+			],
+			[
+				"itemscontro",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"tagcontroller",
+				"app/controllers/tag_controller.rb"
+			],
+			[
+				"tagga",
+				"app/controllers/taggables_controller.rb"
+			],
+			[
+				"tag_controller",
+				"app/controllers/tag_controller.rb"
+			],
+			[
+				"subroute",
+				"public/javascripts/lib/backbone.subroute/backbone.subroute.js"
+			],
+			[
+				"ba",
+				"public/javascripts/lib/backbone/backbone.js"
+			],
+			[
+				"capturecontext",
+				"public/javascripts/backbone/capture/captureContext.js"
+			],
+			[
+				"captureissuelist.js",
+				"public/javascripts/backbone/capture/captureIssueList.js"
+			],
+			[
+				"parentmodu",
+				"public/javascripts/lib/backbone.marionette/src/backbone.marionette.module.js"
+			],
+			[
+				"geppetto.js",
+				"public/javascripts/lib/backbone.gepetto/backbone.geppetto.js"
+			],
+			[
+				"modeltem",
+				"public/javascripts/backbone/main/modelItem.js"
+			],
+			[
+				"item",
+				"app/controllers/items_controller.rb"
+			],
+			[
+				"project_contro",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"projectslist",
+				"public/javascripts/backbone/projects/projectsList.js"
+			],
+			[
+				"project_controller",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"geppetto.",
+				"public/javascripts/lib/backbone.gepetto/backbone.geppetto.js"
+			],
+			[
+				"resourcelayo",
+				"public/javascripts/backbone/resources/resourcesLayout.js"
+			],
+			[
+				"resourceslayout",
+				"public/javascripts/backbone/resources/resourcesLayout.js"
+			],
+			[
+				"resources.js",
+				"public/javascripts/backbone/resources/resources.js"
+			],
+			[
+				"resourcesrouter",
+				"public/javascripts/backbone/resources/resourcesRouter.js"
+			],
+			[
+				"resources",
+				"public/javascripts/backbone/resources/resources.js"
+			],
+			[
+				"resourceslayout.js",
+				"public/javascripts/backbone/resources/resourcesLayout.js"
+			],
+			[
+				"mainrouter",
+				"public/javascripts/backbone/main/mainRouter.js"
+			],
+			[
+				"router.js",
+				"public/javascripts/lib/backbone.marionette/src/backbone.marionette.approuter.js"
+			],
+			[
+				"run",
+				"public/javascripts/run_init.js"
+			],
+			[
+				"app.js",
+				"public/javascripts/application.js"
+			],
+			[
+				"rcontro",
+				"app/controllers/r_controller.rb"
+			],
+			[
+				"itemlist",
+				"public/javascripts/backbone/resources/resourcesItemList.js"
+			],
+			[
+				"marionnette.js",
+				"public/javascripts/lib/backbone.marionette/lib/backbone.marionette.js"
+			],
+			[
+				"layout.html.erb",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"modeltype",
+				"public/javascripts/backbone/core/modelType.js"
+			],
+			[
+				"resourcestype",
+				"public/javascripts/backbone/resources/resourcesTypeList.js"
+			],
+			[
+				"resource",
+				"public/javascripts/backbone/resources/resources.js"
+			],
+			[
+				"typelist",
+				"public/javascripts/backbone/resources/resourcesTypeList.js"
+			],
+			[
+				"application.",
+				"public/javascripts/application.js"
+			],
+			[
+				"asset",
+				"config/assets.yml"
+			],
+			[
+				"type.js",
+				"public/javascripts/backbone/core/types.js"
+			],
+			[
+				"runinit",
+				"public/javascripts/run_init.js"
+			],
+			[
+				"appjs",
+				"public/javascripts/application.js"
+			],
+			[
+				"index.html.erb",
+				"app/views/welcome/index.html.erb"
+			],
+			[
+				"byttons.css",
+				"public/stylesheets/buttons.css"
+			],
+			[
+				"assets.yml",
+				"config/assets.yml"
+			],
+			[
+				"buttons",
+				"public/stylesheets/buttons.css"
+			],
+			[
+				"saw.cs",
+				"public/stylesheets/saw.css"
+			],
+			[
+				"alternative.js",
+				"public/javascripts/backbone/models/alternative.js"
+			],
+			[
+				"item.js",
+				"public/javascripts/backbone/models/item.js"
+			],
+			[
+				"index.htmlerb",
+				"app/views/projects/index.html.erb"
+			],
+			[
+				"items.js",
+				"public/javascripts/backbone/items.js"
+			],
+			[
+				"listdetails",
+				"public/javascripts/backbone/views/alternatives/listDetails.js"
+			],
+			[
+				"listdetai",
+				"public/javascripts/backbone/views/alternatives/listDetails.js"
+			],
+			[
+				"routinglist",
+				"public/javascripts/backbone/views/ts/routingList.js"
+			],
+			[
+				"listdetail",
+				"public/javascripts/backbone/views/alternatives/listDetails.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true
+}
